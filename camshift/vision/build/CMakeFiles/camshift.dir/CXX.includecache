@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/amazon/catkin_ws/vision/src/camshiftdemo.cpp
+opencv3/video/tracking.hpp
+/home/amazon/catkin_ws/vision/src/opencv3/video/tracking.hpp
+opencv3/imgproc/imgproc.hpp
+/home/amazon/catkin_ws/vision/src/opencv3/imgproc/imgproc.hpp
+opencv3/highgui/highgui.hpp
+/home/amazon/catkin_ws/vision/src/opencv3/highgui/highgui.hpp
+iostream
+-
+ctype.h
+-
+

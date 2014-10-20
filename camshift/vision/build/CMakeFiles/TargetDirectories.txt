@@ -1,0 +1,8 @@
+/home/amazon/catkin_ws/vision/build/CMakeFiles/_catkin_empty_exported_target.dir
+/home/amazon/catkin_ws/vision/build/CMakeFiles/camshift.dir
+/home/amazon/catkin_ws/vision/build/CMakeFiles/clean_test_results.dir
+/home/amazon/catkin_ws/vision/build/CMakeFiles/doxygen.dir
+/home/amazon/catkin_ws/vision/build/gtest/CMakeFiles/gtest.dir
+/home/amazon/catkin_ws/vision/build/gtest/CMakeFiles/gtest_main.dir
+/home/amazon/catkin_ws/vision/build/CMakeFiles/run_tests.dir
+/home/amazon/catkin_ws/vision/build/CMakeFiles/tests.dir

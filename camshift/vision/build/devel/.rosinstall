@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/amazon/catkin_ws/vision/build/devel/setup.sh

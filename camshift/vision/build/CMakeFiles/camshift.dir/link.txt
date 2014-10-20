@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/camshift.dir/src/camshiftdemo.cpp.o  -o devel/lib/vision/camshift -rdynamic 

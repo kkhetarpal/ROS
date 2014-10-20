@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "vision")
+set(vision_MAINTAINER "amazon <amazon@todo.todo>")
+set(vision_DEPRECATED "")
+set(vision_VERSION "0.0.0")
+set(vision_BUILD_DEPENDS "opencv2" "std_msgs" "roscpp" "sensor_msgs" "geometry_msgs" "tf" "nav_msgs" "bcv_bridge" "pcl_ros" "move_base_msgs" "actionlib")
+set(vision_RUN_DEPENDS "catkin" "opencv2" "std_msgs" "roscpp" "sensor_msgs" "geometry_msgs" "tf" "nav_msgs" "bcv_bridge" "pcl_ros" "move_base_msgs" "actionlib")
+set(vision_BUILDTOOL_DEPENDS "catkin")
